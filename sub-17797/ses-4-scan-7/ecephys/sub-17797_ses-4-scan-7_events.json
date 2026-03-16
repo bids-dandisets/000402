@@ -1,0 +1,97 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "The clip duration in seconds."
+    },
+    "stimulus_type": {
+        "Description": "The type of stimulus."
+    },
+    "condition_hash": {
+        "Description": "The hash for the stimulus condition."
+    },
+    "rng_seed": {
+        "Description": "Random number generate seed for the stimulus movie."
+    },
+    "texture_height": {
+        "Description": "Texture height in pixels."
+    },
+    "texture_width": {
+        "Description": "Texture width in pixels."
+    },
+    "xnodes": {
+        "Description": "The x dimension of low-res phase movie."
+    },
+    "ynodes": {
+        "Description": "The y dimension of low-res phase movie."
+    },
+    "up_factor": {
+        "Description": "The spatial upscale factor."
+    },
+    "temp_freq": {
+        "Description": "The temporal frequency if the phase pattern were static (Hz)."
+    },
+    "temp_kernel_length": {
+        "Description": "The length of Hanning kernel for the temporal filter, controls the rate of change of the phase pattern."
+    },
+    "spatial_freq": {
+        "Description": "The approximate max spatial frequency. The actual frequencies may be higher. (cy/point)."
+    },
+    "blue_green_saturation": {
+        "Description": "0 = grayscale, 1=blue/green"
+    },
+    "pattern_width": {
+        "Description": "The width of generated pattern (pixels)."
+    },
+    "pattern_aspect": {
+        "Description": "The aspect ratio of generated pattern."
+    },
+    "temp_kernel": {
+        "Description": "The temporal kernel type (hamming, half-hamming)."
+    },
+    "temp_bandwidth": {
+        "Description": "The temporal bandwidth of the stimulus (Hz)."
+    },
+    "ori_coherence": {
+        "Description": "1=unoriented noise. pi / ori coherence = bandwidth of orientation kernel."
+    },
+    "ori_fraction": {
+        "Description": "The fraction of stimulus with coherent orientation vs unoriented."
+    },
+    "ori_mix": {
+        "Description": "The mixin-coefficient of orientation biased noise."
+    },
+    "num_directions": {
+        "Description": "The number of directions."
+    },
+    "movie_name": {
+        "Description": "The full clip source."
+    },
+    "short_movie_name": {
+        "Description": "The type of the clip (cinematic, sports1m, rendered)."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "Trippy": "The 'Trippy' table in the NWB file.",
+            "Monet2": "The 'Monet2' table in the NWB file.",
+            "Clip": "The 'Clip' table in the NWB file."
+        },
+        "HED": {
+            "Trippy": "Time-interval",
+            "Monet2": "Time-interval",
+            "Clip": "Time-interval"
+        }
+    },
+    "Trippy": {
+        "Description": "The stimulus table for the cosine of a smoothened noise phase movie."
+    },
+    "Monet2": {
+        "Description": "Generated from smoothened Gaussian noise and a global orientation and direction component."
+    },
+    "Clip": {
+        "Description": "Composed of 10 second clips from cinematic releases, Sports-1M dataset, or custom rendered first person POV videos in 3D environment in Unreal Engine."
+    }
+}

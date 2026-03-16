@@ -1,0 +1,465 @@
+onset	duration	nwb_table	stimulus_type	condition_hash	rng_seed	texture_height	texture_width	xnodes	ynodes	up_factor	temp_freq	temp_kernel_length	spatial_freq	blue_green_saturation	pattern_width	pattern_aspect	temp_kernel	temp_bandwidth	ori_coherence	ori_fraction	ori_mix	num_directions	movie_name	short_movie_name
+272.4845154801935	9.999815940856934	Clip	stimulus.Clip	QmynNYnz4Q0hMBpTZ/xv																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+282.6176775018305	9.966484308242798	Clip	stimulus.Clip	gpu0WyfdPMgXV/xhy6ZP																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+292.71749358573857	9.966498136520386	Clip	stimulus.Clip	0ir9/br3yxbe2BBf65zF																			The Matrix Reloaded (2003)	Cinematic
+302.8173215905756	9.966490268707275	Clip	stimulus.Clip	NM2SnnQwIoj8iKOMP6xA																			Naqoyqatsi: Life as War (2002)	Cinematic
+312.917147688064	9.966487169265747	Clip	stimulus.Clip	F5KOXJGuqZljKK9USGu/																			2010 WORLDS Jake Clark (USA) dec T Tounousidis (GRE) 84 kg GR	sports1m
+323.0002995053858	9.966488361358643	Clip	stimulus.Clip	uWDM4AAJ+PIdXzpPxOha																			Mad Max: Fury Road (2015)	Cinematic
+333.08346062103215	9.966485500335693	Clip	stimulus.Clip	okYfMyn8qc2ClgvpS7WG																			2009 Skijoring Event in Whitefish Montana (part 1)	sports1m
+343.16661768356266	9.966494083404541	Clip	stimulus.Clip	NHlF8hOkZ6psFRIVhB6N																			ancienttomb_107-1-4-70-0_54.165.28.255	Rendered
+353.2331045190424	9.96649718284607	Clip	stimulus.Clip	AxNNo310kAl9uUSr+hXS																			medievalsewer_009-1-6-70-0_107.23.36.15	Rendered
+363.29960256019535	9.966488361358643	Clip	stimulus.Clip	mjtZRmGqaXCHGB59txoI																			Powaqqatsi: Life in Transformation (1988)	Cinematic
+373.36608176628056	9.966506004333496	Clip	stimulus.Clip	W50xYLSTlUixv1tOfuSJ																			2011 Boulder Cup Cyclocross Elite Women	sports1m
+383.4325845758051	9.966485261917114	Clip	stimulus.Clip	WpAnXD10RC/bdk0t5JIH																			1 of 5 - 2010 ICup 2nd Annual Rock The Canyons XC Mountain Bike Race	sports1m
+393.49907665649357	14.983062982559204	Trippy	stimulus.Trippy	J16ZOJeYRqKSmIu4kmsd	7795.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+408.56547265449467	14.983077049255371	Trippy	stimulus.Trippy	FwG4V5nAZdXPlcAEu/X9	9.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+423.63188939491215	14.983072996139526	Trippy	stimulus.Trippy	c6il6/HFHBatfpiQJdgg	1.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+438.6982894460291	14.983080863952637	Trippy	stimulus.Trippy	qkOGGOuZpenUfVPsg7pC	2077.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+453.764701418075	14.983074426651001	Trippy	stimulus.Trippy	nGvPkYTkoR2LVULUXJzf	5904.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+468.83110266128483	14.983085632324219	Trippy	stimulus.Trippy	7OOFD+pywgnU8G/QQ7O8	9084.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+483.89751344123783	14.98308515548706	Trippy	stimulus.Trippy	hhWRsNy4ljt4M1PtvZ3u	6.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+498.9639223138422	14.983092069625854	Trippy	stimulus.Trippy	zcz9H/fzww6BdAJTTzoe	7.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+514.0303345243067	9.966503381729126	Clip	stimulus.Clip	4tIOoaR5VNXdEFB3JLsd																			Naqoyqatsi: Life as War (2002)	Cinematic
+524.0968394795984	9.966494083404541	Clip	stimulus.Clip	wrhbg7/9C5fsnGqt95w/																			2012 UNIV WORLDS Erickson (USA) dec Allikma (EST) 120 kg Greco repechage	sports1m
+534.1633403817743	9.966496467590332	Clip	stimulus.Clip	gnKtNfR9QYEW0PRkfRU4																			The Matrix Reloaded (2003)	Cinematic
+544.2298353234858	9.966490507125854	Clip	stimulus.Clip	LfckM0X1gCCgUlsmXIea																			The Matrix Revolutions (2003)	Cinematic
+554.2963266889185	9.966492176055908	Clip	stimulus.Clip	Ta17hPcaONVDy5sPjE9z																			The Matrix Reloaded (2003)	Cinematic
+564.3628225843042	9.966495275497437	Clip	stimulus.Clip	mpoHL5UE5tDtz7b51b3H																			americandiner_042-1-5-70-0_54.173.97.201	Rendered
+574.4293234864801	9.966495275497437	Clip	stimulus.Clip	MaN8zZQItdhsFNBq5/yl																			run213-darkTemple-1-0	Rendered
+584.4958146134943	9.966490268707275	Clip	stimulus.Clip	18PTv0aCUhaUeL2r9kDd																			2012 July 10 Midweek MTB Corner Canyon XC Mountain Bike Race (Stabilized)	sports1m
+594.5623038331598	9.966506958007812	Clip	stimulus.Clip	cK20wOm48y1gpxBcZuzN																			The Matrix Reloaded (2003)	Cinematic
+604.6288025895685	9.966503143310547	Clip	stimulus.Clip	s8DvZS/fghphUcTsLOzM																			The Matrix (1999)	Cinematic
+614.69529753128	9.966491222381592	Clip	stimulus.Clip	8IyLxfa6UikBgn/lOdpD																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+624.7451296369165	9.966500282287598	Clip	stimulus.Clip	AXD+rrWG8VbV+xLvzwfb																			2012 May 28 ICUP 7th Annual Stan Crane Memorial XC Mountain Bike Race	sports1m
+634.8116286317438	9.966492176055908	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+644.8781207124323	9.966485977172852	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+654.9446175614924	9.966493368148804	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+664.9944446603388	9.966491222381592	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+675.0609376947016	9.966495037078857	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+685.1274335900873	9.96649432182312	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+695.1939266244501	14.983069658279419	Monet2	stimulus.Monet2	yv/S61fYnDSQcA9J6Nk8	7.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+710.2603292981714	14.983078002929688	Monet2	stimulus.Monet2	EDABAlTaAaJG+SyAec9S	5591.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+725.3267393628687	14.983078956604004	Monet2	stimulus.Monet2	H31pkjANK+ZRonzf/R96	2180.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+740.393149427566	14.983082056045532	Monet2	stimulus.Monet2	HM+OgD8yKfeMGSL/gz0Q	6831.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+755.4595673600763	14.983075380325317	Trippy	stimulus.Trippy	G31GO27H08kFIOZVQvAv	1459.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+770.5259783784479	14.983083009719849	Trippy	stimulus.Trippy	fLN9OsqB4urU1raVqqg8	4356.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+785.5923874894709	14.983079195022583	Trippy	stimulus.Trippy	Vdi70xOyBQEeDGhPVulx	3.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+800.6587954084009	14.983089208602905	Trippy	stimulus.Trippy	EhwIk1vM51LHZPE6xFZX	5.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+815.7252164403528	9.966490268707275	Clip	stimulus.Clip	JOYs8Wny1GJlw6AxCVo5																			lowpolyjungle_015-1-9-70-0_54.175.147.171	Rendered
+825.7750423471064	9.966506242752075	Clip	stimulus.Clip	mG4xsIyTTnaRWKW82yeD																			The Matrix (1999)	Cinematic
+835.8415473023981	9.966492414474487	Clip	stimulus.Clip	hnYVTt6SOC5gw43jdDOb																			Mad Max: Fury Road (2015)	Cinematic
+845.9080393830866	9.96649432182312	Clip	stimulus.Clip	HvUTYlGssHeK5Ub4iNLY																			mountainlake_075-1-0-70-0_52.205.253.179	Rendered
+855.9745395700068	9.96648645401001	Clip	stimulus.Clip	pBsrFShgY2qLi+7xYSGi																			1984 Winter Olympics - Mens Luge 1st run - Part 1	sports1m
+866.0410357038111	9.966487407684326	Clip	stimulus.Clip	IPvYT7eXLYJ557HrVPnG																			1 of 7 - 2010 ICup Utah Open State Championship XC Mountain Bike Race	sports1m
+876.1075296918482	9.966498136520386	Clip	stimulus.Clip	fLERziVNV66es5Dy40fO																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+886.1740215341181	9.966491460800171	Clip	stimulus.Clip	ci65aWXKgDn4kcNYn0j8																			2011 June 15 Weekly Race Series Soldier Hollow XC Mountain Bike Race	sports1m
+896.2405205289454	9.966493368148804	Clip	stimulus.Clip	YvQ4Ix2omvG6L0XJggOX																			ancienttomb_132-1-4-70-0_54.196.24.32	Rendered
+906.3070078412622	9.96649718284607	Clip	stimulus.Clip	ouHMwfUbuMvHeZujzrj6																			2009FIS WORLD CHAMPIONSHIP DUALMOGULS CEREMONY	sports1m
+916.3735135118097	9.966489553451538	Clip	stimulus.Clip	dbDlANz0Uu7I+j5obeMn																			Powaqqatsi: Life in Transformation (1988)	Cinematic
+926.4400086919397	9.966498136520386	Clip	stimulus.Clip	gHHhM6EKSWmzdF5EcSOn																			The Matrix Reloaded (2003)	Cinematic
+936.506507686767	9.966500043869019	Clip	stimulus.Clip	RfUtVaLc5lcwvRiH1kLu																			Mad Max: Fury Road (2015)	Cinematic
+946.5730016748041	9.966527223587036	Clip	stimulus.Clip	ziA/vNuOy4coV5SzwnSD																			run33-darkTemple-1-0	Rendered
+956.6395285646051	9.966522216796875	Clip	stimulus.Clip	50dhgh+ybY63mYaXV7kT																			The Matrix (1999)	Cinematic
+966.7060535470575	9.966525316238403	Clip	stimulus.Clip	oPUevAoTKR5YC4DFZ187																			ancienttomb_119-1-4-70-0_54.159.174.165	Rendered
+976.7725806752771	9.966520071029663	Clip	stimulus.Clip	SyRkWFKGEKp6aSYFKP16																			2011 July 23 ICUP Solitude XC Mountain Bike Race	sports1m
+986.839102558288	9.966516256332397	Clip	stimulus.Clip	sZV8FrEdpsTjeqT//1Za																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+996.9222925225824	9.966516256332397	Clip	stimulus.Clip	kkHuha9J/fZ3DRxLkF+O																			2010 Cascade Stage Race Master Criterium part 36	sports1m
+1006.9888136903376	9.966520071029663	Clip	stimulus.Clip	i0JtgIqs8DDsR/F0Lu6K																			subway_101-1-3-70-0_54.175.147.171	Rendered
+1017.0719986478418	9.966517448425293	Clip	stimulus.Clip	Gi4pAEUvD2lZxyjDbogy																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+1027.1385176698298	9.966528177261353	Clip	stimulus.Clip	SqPJ7rIOg61mlcGwpDDI																			swamp_094-1-11-70-0_54.210.37.143	Rendered
+1037.2050426522821	9.966523170471191	Clip	stimulus.Clip	1NuEUBpBNvmoBOW+bDA6																			subway_086-1-3-70-0_54.159.174.165	Rendered
+1047.2715635816187	9.966510534286499	Clip	stimulus.Clip	YmCt8zgCVQ0+Y6VMqOqb																			2011 June 15 Weekly Race Series Soldier Hollow XC Mountain Bike Race	sports1m
+1057.3380857030481	9.96651816368103	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+1067.4046025792688	9.966524124145508	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+1077.4544556657404	9.966515302658081	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+1087.5209756414026	9.966515064239502	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+1097.587491563949	9.96651029586792	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+1107.6373405973047	9.966525077819824	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+1117.7038624803156	9.96650743484497	Clip	stimulus.Clip	UIRT1CCHgVDfheNGYQd6																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+1127.7703826943964	9.96650505065918	Clip	stimulus.Clip	Qtx9ZilPEN9mdem3G1lL																			2012 July 17 Midweek MTB Deer Valley Silver Lake Lodge XC Race (Stabilized)	sports1m
+1137.8368878881067	9.966525793075562	Clip	stimulus.Clip	8PA1UPAZQPiLL4qyfbe0																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+1147.9034028569788	9.966523885726929	Clip	stimulus.Clip	yCXacouyIMBJMNQBQeSe																			2009 Univest Grand Prix Road Race PA	sports1m
+1157.9699235478968	9.966516494750977	Clip	stimulus.Clip	cX1uqe3yuBtkCRNeZPSD																			lowpolyjungle_125-1-9-70-0_54.175.147.171	Rendered
+1168.0364456693262	9.966512203216553	Clip	stimulus.Clip	0JcYLY6eaQxNgD0AqyHf																			The Matrix Revolutions (2003)	Cinematic
+1178.102958492431	9.96651029586792	Clip	stimulus.Clip	VoSVtF51UWO130blqiqa																			subway_012-1-3-70-0_34.239.124.192	Rendered
+1188.1694765607447	9.96651029586792	Clip	stimulus.Clip	qKOctYrSyI9J6PDpVJID																			subway_097-1-3-70-0_54.209.141.225	Rendered
+1198.235981754455	9.966516256332397	Clip	stimulus.Clip	OS1weMX0UFwrXrQnX8gU																			2011 July 6 Weekly Race Series Sundance XC Mountain Bike Race	sports1m
+1208.3025036374659	9.899843215942383	Clip	stimulus.Clip	aB4ZUg+gFmC1Vb1AXxgQ																			(Canyoneering) Gorge walking - Coniston	sports1m
+1218.3023555795282	9.96651029586792	Clip	stimulus.Clip	wDHUBeJI63f8hrFmmwf2																			lowpolyjungle_125-1-9-70-0_54.175.147.171	Rendered
+1228.3688676873774	9.966512203216553	Clip	stimulus.Clip	tQnVx/FeWEuf0VmpgYRp																			14 ª volta ciclistica internacional do grande A B C D 2011 elite	sports1m
+1238.4353805104822	9.966512203216553	Clip	stimulus.Clip	RL8zpBtdUqrcItpujIVj																			Powaqqatsi: Life in Transformation (1988)	Cinematic
+1248.5018895188898	9.966511249542236	Clip	stimulus.Clip	L313XjQzD6eqzIitZmbl																			subway_129-1-3-70-0_54.159.174.165	Rendered
+1258.568409494552	9.966508388519287	Clip	stimulus.Clip	G8GCQlSYxw5oG/LVKDs2																			americandiner_099-1-5-70-0_184.73.123.94	Rendered
+1268.634916595611	9.966519117355347	Clip	stimulus.Clip	YxZMp94AewnnwYmjI/0v																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+1278.7014306108088	9.966514110565186	Clip	stimulus.Clip	wE8wskQ2OpXgYdnpm+o0																			13 Rottenmanner Tauern-Adventure-Race	sports1m
+1288.7679396192163	9.966517210006714	Clip	stimulus.Clip	Hx7nWm9l4FGDuTlUO/17																			The Matrix Reloaded (2003)	Cinematic
+1298.8511245767206	9.966508150100708	Clip	stimulus.Clip	y3SID8qjz9QjNpDY4tOe																			2012 Milford Criterium Road Race -   Men - Pro Cat - 5 Kids Race	sports1m
+1308.9342897454828	9.966522932052612	Clip	stimulus.Clip	Z3BXaOqKhFdemeLRDuzb																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+1319.0008075753778	9.966511249542236	Clip	stimulus.Clip	/7uLReq8MWCRlTuw3LjQ																			The Matrix (1999)	Cinematic
+1329.06732254425	9.966517210006714	Clip	stimulus.Clip	8x5d5t7kRaLOmGwAYelJ																			mountainlake_033-1-0-70-0_107.23.36.15	Rendered
+1339.133837513122	9.966506242752075	Clip	stimulus.Clip	7kZ0OV6kgK+Bhn2zpVKZ																			Mad Max: Fury Road (2015)	Cinematic
+1349.2003477136225	9.966503143310547	Clip	stimulus.Clip	+5KOuf8AHbZQV2+gVin2																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+1359.2668576757044	9.966508150100708	Clip	stimulus.Clip	HRYWXByEArbfgawgOoYR																			2011 July 6 Weekly Race Series Sundance XC Mountain Bike Race	sports1m
+1369.333366684112	9.966504096984863	Clip	stimulus.Clip	Q71cQ98FZFfV1FFP19tp																			Mad Max: Fury Road (2015)	Cinematic
+1379.399876646194	9.96651005744934	Clip	stimulus.Clip	ThxxeXzp25G3a1gltGnb																			2012 USCS Lambert Park XC Mountain Bike Race (Stabilized)	sports1m
+1389.4663866082758	9.966504096984863	Clip	stimulus.Clip	lvUXmwKehbtGZnll90D1																			run61-AmericanDiner-1-0	Rendered
+1399.5328956166834	9.96651315689087	Clip	stimulus.Clip	fpC2lOoMU94QhFs8U7ea																			shintoday_049-1-12-70-0_52.87.152.28	Rendered
+1409.5994036714167	9.966503143310547	Clip	stimulus.Clip	vV1ae/h7aLsw9c0bRm+R																			run40-templeOpen-1-0	Rendered
+1419.6659114877314	14.983091115951538	Monet2	stimulus.Monet2	SzeVJsDzE+Ceeb3XK4TT	5.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+1434.732342294845	14.983097314834595	Monet2	stimulus.Monet2	IzAFbAJjVsCRqbqe9Kz1	6404.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+1449.7987733403772	14.983103036880493	Monet2	stimulus.Monet2	kEq0YeYOSSBtM1ZkWA1a	4.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+1464.8652043859095	14.983088970184326	Monet2	stimulus.Monet2	3UgOrQjahOT3GzL/LWDH	8155.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+1479.9316232720942	9.96652364730835	Clip	stimulus.Clip	Mg5bLgoNvze3EPLB9rbZ																			2011 KIA X-GAME Aggressive Inline VERT Final	sports1m
+1489.9981384793848	9.966506481170654	Clip	stimulus.Clip	yfFAPn1QpVQmEC2iXg07																			swamp_103-1-11-70-0_54.162.127.170	Rendered
+1500.0646546403498	9.96650505065918	Clip	stimulus.Clip	fSfoxctVyPEoVzFOpsAw																			ancienttomb_068-1-4-70-0_34.239.124.192	Rendered
+1510.131150774154	9.966511964797974	Clip	stimulus.Clip	5Q4+LRPdnmpiazfLNOdJ																			mountainlake_006-1-0-70-0_184.73.123.94	Rendered
+1520.197668604049	9.966508150100708	Clip	stimulus.Clip	EyGfkWSsxEsE8f3GX5Ox																			lowpolyjungle_079-1-9-70-0_52.87.152.28	Rendered
+1530.2641716519922	9.96651315689087	Clip	stimulus.Clip	Lp/pttdcIH1AZsCOGZuG																			Naqoyqatsi: Life as War (2002)	Cinematic
+1540.3306847135157	9.966507196426392	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+1550.3971906224817	9.96650218963623	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+1560.463697485122	9.966500520706177	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+1570.5302014867395	9.966509342193604	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+1580.5967066804499	9.966506242752075	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+1590.66320686737	9.966511964797974	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+1600.729718498382	9.966506242752075	Clip	stimulus.Clip	x70ow2B3Ot/iXbHElzvS																			run115-lowPolyJungle-1-0	Rendered
+1610.7962296525568	9.966509103775024	Clip	stimulus.Clip	EsI1j5wt089SA2xoolWe																			run131-AmericanDiner-1-0	Rendered
+1620.8627346078486	9.96651029586792	Clip	stimulus.Clip	g0P8X3NB5E+0Hl/gkk06																			2011 June 25 USCS Round Valley XC Mountain Bike Race	sports1m
+1630.9292316953272	9.966508150100708	Clip	stimulus.Clip	BwxUj/Un+SdkeznjwHib																			The Matrix Reloaded (2003)	Cinematic
+1640.995748571548	9.966497421264648	Clip	stimulus.Clip	7RwmxMMQq+TMMjlzzNba																			2012 Jan 29 Hong Kong Tin Ping Shan XC race	sports1m
+1651.0622506658167	9.96651005744934	Clip	stimulus.Clip	Dz3Dq0jT2bGSJRFmxK/0																			2011 Frozen Hog Mountain Bike Race	sports1m
+1661.1287477532953	9.966514110565186	Clip	stimulus.Clip	JNYUnhFvI0mZbwN58E20																			swamp_124-1-11-70-0_34.239.124.192	Rendered
+1671.1952615300745	9.966507196426392	Clip	stimulus.Clip	7keiPs7vk9CHNrtDuOxL																			2012 July 17 Midweek MTB Deer Valley Silver Lake Lodge XC Race (Stabilized)	sports1m
+1681.2617695848078	9.966508150100708	Clip	stimulus.Clip	t24nBc6mpih4DR5C/qVP																			subway_016-1-3-70-0_52.205.253.179	Rendered
+1691.328268579635	9.966501235961914	Clip	stimulus.Clip	JzIVwvytTHCEhcYc0EkS																			2012 UNIV WORLDS Stenberg (USA) dec Sasunouski (BLR) 84 kg Greco bout	sports1m
+1701.3947775880426	9.966504335403442	Clip	stimulus.Clip	shDuGRZylVmZLCBFIVeP																			2011 July 23 ICUP Solitude XC Mountain Bike Race	sports1m
+1711.4612834970087	9.966507196426392	Clip	stimulus.Clip	ysjy6YgGXX5+mcx52KSM																			The Matrix Reloaded (2003)	Cinematic
+1721.5277855912775	9.966505289077759	Clip	stimulus.Clip	IROq1dMhFuvsAN5YzcU/																			run159-templeInterior-1-0	Rendered
+1731.5942905465693	9.966505289077759	Clip	stimulus.Clip	+VtW2USfK+AEOmktjHTX																			2011 June 15 Weekly Race Series Soldier Hollow XC Mountain Bike Race	sports1m
+1741.6607945481867	9.966503381729126	Clip	stimulus.Clip	ZZIQdS11t1Ud11yJhWgu																			Mad Max: Fury Road (2015)	Cinematic
+1751.7272944966883	9.966512203216553	Clip	stimulus.Clip	lrbhPQXclijVf5m8jkMT																			Naqoyqatsi: Life as War (2002)	Cinematic
+1761.7937996903986	9.966500997543335	Clip	stimulus.Clip	UmZNKiH/LLths+/7+pti																			2011 August 2 Midweek MTB Solitude XC Mountain Bike Race	sports1m
+1771.8603046456903	9.966498136520386	Clip	stimulus.Clip	JdIRu/9BbD6LjvobnYgE																			mountainlake_089-1-0-70-0_52.87.152.28	Rendered
+1781.9268105546564	14.983086109161377	Trippy	stimulus.Trippy	qMXsO8RMyuvR7cjaSdkJ	9181.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+1796.99323635498	14.983082294464111	Trippy	stimulus.Trippy	qor69qXRa6l44935Pj7p	6154.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+1812.0596583406061	14.983087062835693	Trippy	stimulus.Trippy	ZJvulWBItHtLlDVkIntm	8.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+1827.1260824719996	14.983082056045532	Trippy	stimulus.Trippy	U6NqQRL+v/N/9xnLSH2y	10.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+1842.1924973050684	9.966508388519287	Clip	stimulus.Clip	YWGU9pCJb1jD1EEZ20tf																			The Matrix Reloaded (2003)	Cinematic
+1852.2589993993372	9.966501474380493	Clip	stimulus.Clip	FQR1XltfRJLPikdVpYNn																			mountainlake_008-1-0-70-0_54.205.66.32	Rendered
+1862.325507692489	9.96650505065918	Clip	stimulus.Clip	O/TPbFEXzCLov05/KwS+																			2011 June 15 Weekly Race Series Soldier Hollow XC Mountain Bike Race	sports1m
+1872.3920167008966	9.966494083404541	Clip	stimulus.Clip	GLb98O6GN6r7256/fA8Y																			The Matrix (1999)	Cinematic
+1882.4585185567469	9.966499328613281	Clip	stimulus.Clip	SuNRz+E/BsGGxVlNWLt9																			shintoday_036-1-12-70-0_184.73.123.94	Rendered
+1892.5250196973413	9.966495037078857	Clip	stimulus.Clip	mbeT2YEuzrol94GMBsSP																			lowpolyjungle_113-1-9-70-0_54.159.174.165	Rendered
+1902.5915225068659	9.966496467590332	Clip	stimulus.Clip	HPjbeoFnvKAqtpamPXx/																			2011 August 2 Midweek MTB Solitude XC Mountain Bike Race	sports1m
+1912.6580286542505	9.96650218963623	Clip	stimulus.Clip	jsRAGvsoQH6W+G0LU9do																			The Matrix Revolutions (2003)	Cinematic
+1922.7245276490778	9.966503143310547	Clip	stimulus.Clip	IbnRWQHIcL3p9uVB9FJs																			mountainlake_031-1-0-70-0_54.196.24.32	Rendered
+1932.791029504928	9.966505289077759	Clip	stimulus.Clip	CFsOj8I/1eH8GUwMZlmQ																			The Matrix Reloaded (2003)	Cinematic
+1942.8575325528711	9.966509342193604	Clip	stimulus.Clip	IcN2JxTvwrw0I5Es3fHW																			mountainlake_121-1-0-70-0_54.205.66.32	Rendered
+1952.9407065431208	9.966496229171753	Clip	stimulus.Clip	ob4wY/Dc0U8BvXCv2wMX																			Mad Max: Fury Road (2015)	Cinematic
+1963.0072095910639	9.966493129730225	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+1973.0737104932398	9.96650242805481	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+1983.1402009049982	9.966508865356445	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+1993.2067156354517	9.966500043869019	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+2003.273217491302	9.966504335403442	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+2013.3397145787806	9.96651029586792	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+2023.406218580398	14.983089685440063	Monet2	stimulus.Monet2	uAJLAga+RNkfyuch9BRR	5557.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2038.4726434270472	14.983078956604231	Monet2	stimulus.Monet2	AZvr1UF39ygFqNxKr/8K	6.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2053.5390513459774	14.983090162277222	Monet2	stimulus.Monet2	CXeJy3AM7JenjugXMtRu	3291.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2068.6054723779293	14.983091115951538	Monet2	stimulus.Monet2	gY9PCk17b2uInKttNA0i	1204.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2083.6718934098812	9.96651029586792	Clip	stimulus.Clip	J4PH3ez0PBmcINVwekyF																			2011 KIA X-GAME Aggressive Inline VERT Final	sports1m
+2093.7384036103817	9.966500282287598	Clip	stimulus.Clip	n2kq4Nv6UNm4wJbdtuHM																			2010 WORLDS Justin Ruiz (USA) dec Richard Karelson (EST) 96 kg GR	sports1m
+2103.8049085656735	9.966503143310547	Clip	stimulus.Clip	iYxs1vPwdSenUzRva/I3																			Mad Max: Fury Road (2015)	Cinematic
+2113.888066820297	9.966507911682129	Clip	stimulus.Clip	N1Sn679rCW0XsG5S7c/C																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+2123.9545815507504	9.966501235961914	Clip	stimulus.Clip	jlM0Ornu8Dw2nAXCwego																			mountainlake_047-1-0-70-0_54.89.40.102	Rendered
+2134.0210795919033	9.966505289077759	Clip	stimulus.Clip	iXM+aZY10zP+t3wPmZOW																			The Matrix Reloaded (2003)	Cinematic
+2144.087583593521	9.966493129730225	Clip	stimulus.Clip	APccFaui8xmgaLPZxjAA																			2011 June 25 USCS Round Valley XC Mountain Bike Race	sports1m
+2154.154086641464	9.966505289077759	Clip	stimulus.Clip	hclIiiBW4rID0gjoYwbv																			14 ª volta ciclistica internacional do grande A B C D 2011 elite	sports1m
+2164.220588497314	9.966501235961914	Clip	stimulus.Clip	ZW5GVcDmKHQQrQdljO9u																			1984 Winter Olympics - Mens Luge 2nd Run - Part 1	sports1m
+2174.287083677444	9.966497421264648	Clip	stimulus.Clip	YWz8BdF7JHpb7SyGU3LO																			run125-lowPolyJungle-1-0	Rendered
+2184.3535926858517	9.966500043869019	Clip	stimulus.Clip	otpDc+UZTnv0+G/1LL/A																			lowpolyjungle_129-1-9-70-0_52.87.152.28	Rendered
+2194.4200857202145	9.966500282287598	Clip	stimulus.Clip	4ZE6JPeH4hCIesp0aRIB																			kowloon_110-1-8-70-0_54.209.141.225	Rendered
+2204.486592582855	14.98307991027832	Monet2	stimulus.Monet2	3HzHHDRlI823kBq/ZP5U	7665.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2219.553013376388	14.98307752609253	Monet2	stimulus.Monet2	5Lkp5QBafztt+LoTx+hY	1408.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2234.61943440834	14.983082056045532	Monet2	stimulus.Monet2	GHn0W57E+2PS+Qr5yD2r	8.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2249.685841373596	14.983094930648804	Monet2	stimulus.Monet2	clN4ica4q7huSnWVFTFi	3.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2264.7522693196865	9.966506481170654	Clip	stimulus.Clip	NWqTwzuwGakTM37kHKK4																			The Matrix Revolutions (2003)	Cinematic
+2274.818769268188	9.966510534286499	Clip	stimulus.Clip	ik5DKO+EInbAGwcH0BfB																			2011 June 14 Midweek MTB Corner Canyon XC Mountain Bike Race	sports1m
+2284.8852744618985	9.966505289077759	Clip	stimulus.Clip	dHvGJAD7cN8KboJxFF4/																			2011 June 14 Midweek MTB Corner Canyon XC Mountain Bike Race	sports1m
+2294.9517725030514	9.966504335403442	Clip	stimulus.Clip	zlQ935qW1A8YOiseS7gY																			medievalsewer_132-1-6-70-0_54.210.37.143	Rendered
+2305.0182762662503	9.966500520706177	Clip	stimulus.Clip	XoerXglPXrngFUI5uTG6																			1 of 5 - 2010 ICup 2nd Annual Rock The Canyons XC Mountain Bike Race	sports1m
+2315.1014435807797	9.966500282287598	Clip	stimulus.Clip	EKhyHmLj04EcBoR25T/e																			americandiner_079-1-5-70-0_184.73.123.94	Rendered
+2325.167942575607	9.966495275497437	Clip	stimulus.Clip	X+N1ZiG3wO2Za97we1r1																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+2335.251110605392	9.966497421264648	Clip	stimulus.Clip	F5cxydkSohXr9nvqkA3/																			ancienttomb_040-1-4-70-0_54.175.147.171	Rendered
+2345.317611507568	9.966506242752075	Clip	stimulus.Clip	wqLbCWACZBLkTO111PLJ																			run246-medievalSewer-1-0	Rendered
+2355.4007707158657	9.966505289077759	Clip	stimulus.Clip	d9BIe1nYTGPM8lSk3Z54																			2011 June 28 Midweek MTB Round Valley XC Mountain Bike Race	sports1m
+2365.4672794858548	9.966507196426392	Clip	stimulus.Clip	SiUR6hE/JykF4u0dD0CV																			The Matrix Reloaded (2003)	Cinematic
+2375.5337806264492	9.96649718284607	Clip	stimulus.Clip	SnTfw0hDRePS7afhxaeS																			2011 July 20 Weekly Race Series Sundance XC Mountain Bike Race	sports1m
+2385.6002836743924	9.966492176055908	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+2395.666773847732	9.966515064239502	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+2405.7332795182797	9.96650242805481	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+2415.799782566223	9.966493368148804	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+2425.866285614166	9.96650218963623	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+2435.932783655319	9.96650505065918	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+2445.999274782333	9.966511964797974	Clip	stimulus.Clip	ubOIjeUGbsNAJqMPIDqU																			mountainlake_066-1-0-70-0_54.205.66.32	Rendered
+2456.0657825986477	9.966501235961914	Clip	stimulus.Clip	ihsP/Q14/eSpxdQLR3F4																			Mad Max: Fury Road (2015)	Cinematic
+2466.1322835008236	9.966508388519287	Clip	stimulus.Clip	ClffawlgRfZbgKwX6zRB																			ancienttomb_100-1-4-70-0_54.209.141.225	Rendered
+2476.1987865487667	9.966490268707275	Clip	stimulus.Clip	aedxogPGpb5IiLcjLo8c																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+2486.265281490478	9.966509342193604	Clip	stimulus.Clip	3wXTReOQa7mnr6Oz8aUf																			2012 May 28 ICUP 7th Annual Stan Crane Memorial XC Mountain Bike Race	sports1m
+2496.331783584747	9.966501235961914	Clip	stimulus.Clip	0eP/PPhAGmbJ2peZOa/E																			ancienttomb_105-1-4-70-0_54.89.40.102	Rendered
+2506.39828663269	9.966493129730225	Clip	stimulus.Clip	KjDfO15MEsKyQ1ecL7gs																			run257-mountainLake-1-0	Rendered
+2516.464784673843	9.966499090194702	Clip	stimulus.Clip	W72D46ICk0GV1uh0E98o																			The Matrix (1999)	Cinematic
+2526.531285576019	9.966501235961914	Clip	stimulus.Clip	rKhBb2Q+dILxw3t33TsJ																			The Matrix Revolutions (2003)	Cinematic
+2536.6144545594784	9.966496229171753	Clip	stimulus.Clip	YfqXNa8nksH/H4Q7tw5G																			lowpolyjungle_118-1-9-70-0_54.83.154.242	Rendered
+2546.68095450798	9.966491460800171	Clip	stimulus.Clip	OFk94miLCLRW7fhR6BQE																			swamp_075-1-11-70-0_54.165.28.255	Rendered
+2556.74744968811	9.966496229171753	Clip	stimulus.Clip	VIxFQLvrzWwvLKX9CM5N																			1995 bmx vert bs contest  mat hoffman bike park okc	sports1m
+2566.813955597076	9.96649718284607	Clip	stimulus.Clip	FeezTZWHxWiqy5KtJXNt																			run49-templeInterior-1-0	Rendered
+2576.880449585113	9.966504096984863	Clip	stimulus.Clip	ywGuXP6S/eDGeeeBbQqD																			2011 June 28 Midweek MTB Round Valley XC Mountain Bike Race	sports1m
+2586.946950487289	9.966496229171753	Clip	stimulus.Clip	WRRqpuQNrGT6SVXMvC82																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+2597.0134506742093	9.966495037078857	Clip	stimulus.Clip	HEXTrpFPMqW3BnPy8M8s																			2011 June 15 Weekly Race Series Soldier Hollow XC Mountain Bike Race	sports1m
+2607.0799496690365	9.96649718284607	Clip	stimulus.Clip	eMDwb/IAkaM/aLusrTpZ																			2011 July 23 ICUP Solitude XC Mountain Bike Race	sports1m
+2617.1464455644223	9.966499328613281	Clip	stimulus.Clip	EAjCdiix8UUZiEC5b7lh																			Naqoyqatsi: Life as War (2002)	Cinematic
+2627.212939790878	14.983084917068481	Monet2	stimulus.Monet2	WD0uyxvusJmVxfeKu9mZ	1.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2642.2793634454342	14.983078956604004	Monet2	stimulus.Monet2	YLuStB2eXkgOS+Cescsy	9.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2657.329108289871	14.98308515548706	Monet2	stimulus.Monet2	Sqv4lziRTQgtkUPYRRiM	10.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2672.3788593331906	14.983086109161377	Monet2	stimulus.Monet2	+rgSVBVRE8Ij1WNhq8ZW	2.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+2687.4286103765103	14.983087301254272	Trippy	stimulus.Trippy	Q4/THKpXp4wtLGelC8Na	6820.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+2702.4950316468808	14.983089923858643	Trippy	stimulus.Trippy	+4gByvU9LfvSD0JHP6Ae	4.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+2717.5614584008786	14.983088970184326	Trippy	stimulus.Trippy	tRgm529SPpQspr220FRm	2.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+2732.6445353547665	14.983087301254272	Trippy	stimulus.Trippy	MEXB7d7kfKPJ59YthHun	4267.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+2747.7109523336026	9.966516017913818	Clip	stimulus.Clip	b8GAwAYIfNONaUuuoLnL																			medievalsewer_079-1-6-70-0_54.205.66.32	Rendered
+2757.7774544278714	9.966508865356445	Clip	stimulus.Clip	nqK24cqsADkKRlZDKsbC																			subway_055-1-3-70-0_54.83.154.242	Rendered
+2767.843958429489	9.96651005744934	Clip	stimulus.Clip	GxvJw/oN9lBF2c8y/Kec																			2011 KIA X-GAME Aggressive Inline VERT Round1 HEAT2	sports1m
+2777.910457424316	9.96651029586792	Clip	stimulus.Clip	0iLPswYzm/4EcA2fMTGS																			The Matrix Revolutions (2003)	Cinematic
+2787.9769676248166	9.96649718284607	Clip	stimulus.Clip	oOa2ORiMQtTaxcXOoJDW																			The Matrix Revolutions (2003)	Cinematic
+2798.0434706727597	9.966493368148804	Clip	stimulus.Clip	pcRTN5yS+zsxTR3f+0o3																			2011 July 6 Weekly Race Series Sundance XC Mountain Bike Race	sports1m
+2808.1099665681454	9.966508150100708	Clip	stimulus.Clip	8DsxUsmXriQYOJIgloAH																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+2818.176460794601	9.96651005744934	Clip	stimulus.Clip	ub4Pyw28BYKGXc/rASNq																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+2828.242973617706	9.96649718284607	Clip	stimulus.Clip	6D6XHVtDnLUUWt1d8urH																			Mad Max: Fury Road (2015)	Cinematic
+2838.3094678441616	9.966502904891968	Clip	stimulus.Clip	XCLfPAAZxHT7HNNrSnO7																			run214-kowloon-1-0	Rendered
+2848.375968507919	9.966506242752075	Clip	stimulus.Clip	GSntzoa9fuWS9jsKWZLX																			swamp_111-1-11-70-0_54.162.127.170	Rendered
+2858.4258096734616	9.966498136520386	Clip	stimulus.Clip	xA0Prdc7lAR8gixnBstr																			The Matrix (1999)	Cinematic
+2868.508973650131	9.966490030288696	Clip	stimulus.Clip	/O+s99pO43Pk7G0qMRm7																			2011 August 30 Midweek MTB Solitude XC Mountain Bike Race	sports1m
+2878.575464777145	9.966500282287598	Clip	stimulus.Clip	wwecrICnytZzLYphzIKd																			lowpolyjungle_058-1-9-70-0_34.203.243.27	Rendered
+2888.6419766465756	9.966492176055908	Clip	stimulus.Clip	3udeJuIkMzJu5SyoKpuT																			2011 June 25 USCS Round Valley XC Mountain Bike Race	sports1m
+2898.7084746877285	9.966493129730225	Clip	stimulus.Clip	eKRiivprFZSONyEtNaT3																			The Matrix Revolutions (2003)	Cinematic
+2908.7749686757656	9.96650218963623	Clip	stimulus.Clip	Xa3BI7jnS0AufjjNF9QF																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+2918.8414736310574	9.966496229171753	Clip	stimulus.Clip	6fXb+0d2W3M/YKRia+f8																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+2928.9079676190945	9.966505289077759	Clip	stimulus.Clip	UIRT1CCHgVDfheNGYQd6																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+2938.974475673828	9.966499090194702	Clip	stimulus.Clip	Qtx9ZilPEN9mdem3G1lL																			2012 July 17 Midweek MTB Deer Valley Silver Lake Lodge XC Race (Stabilized)	sports1m
+2949.040962747726	9.96653413772583	Clip	stimulus.Clip	8PA1UPAZQPiLL4qyfbe0																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+2959.107467703018	9.96650505065918	Clip	stimulus.Clip	yCXacouyIMBJMNQBQeSe																			2009 Univest Grand Prix Road Race PA	sports1m
+2969.173969558868	9.966504335403442	Clip	stimulus.Clip	cX1uqe3yuBtkCRNeZPSD																			lowpolyjungle_125-1-9-70-0_54.175.147.171	Rendered
+2979.240472606811	9.966492176055908	Clip	stimulus.Clip	0JcYLY6eaQxNgD0AqyHf																			The Matrix Revolutions (2003)	Cinematic
+2989.290292791519	9.966536045074463	Clip	stimulus.Clip	JOYs8Wny1GJlw6AxCVo5																			lowpolyjungle_015-1-9-70-0_54.175.147.171	Rendered
+2999.3568158666226	9.966542959213257	Clip	stimulus.Clip	mG4xsIyTTnaRWKW82yeD																			The Matrix (1999)	Cinematic
+3009.423354915771	9.966543912887573	Clip	stimulus.Clip	hnYVTt6SOC5gw43jdDOb																			Mad Max: Fury Road (2015)	Cinematic
+3019.4898996869656	9.966541051864624	Clip	stimulus.Clip	HvUTYlGssHeK5Ub4iNLY																			mountainlake_075-1-0-70-0_52.205.253.179	Rendered
+3029.5564375440213	9.96653938293457	Clip	stimulus.Clip	pBsrFShgY2qLi+7xYSGi																			1984 Winter Olympics - Mens Luge 1st run - Part 1	sports1m
+3039.6229706327053	9.966538190841675	Clip	stimulus.Clip	IPvYT7eXLYJ557HrVPnG																			1 of 7 - 2010 ICup Utah Open State Championship XC Mountain Bike Race	sports1m
+3049.689508489761	9.966536283493042	Clip	stimulus.Clip	eeUWMg2P0CbP2UrkrutW																			2011 August 2 Midweek MTB Solitude XC Mountain Bike Race	sports1m
+3059.756045631561	9.966532230377197	Clip	stimulus.Clip	BACEziGtIpLEDgRlbEEy																			mountainlake_076-1-0-70-0_54.165.28.255	Rendered
+3069.8225825349423	9.966533184051514	Clip	stimulus.Clip	///1P/h8izC1DDF4Rhmr																			Naqoyqatsi: Life as War (2002)	Cinematic
+3079.889110616836	9.966529130935669	Clip	stimulus.Clip	TWdfg698JASxGoiyn9o9																			The Matrix Reloaded (2003)	Cinematic
+3089.9556446591946	9.966538190841675	Clip	stimulus.Clip	FEq/WpdKURfzS2UGP5y7																			mountainlake_005-1-0-70-0_54.196.24.32	Rendered
+3100.0221727410885	9.966537952423096	Clip	stimulus.Clip	YnO2R19t2og4dtbVnp/4																			kowloon_083-1-8-70-0_54.173.97.201	Rendered
+3110.0887115518185	9.966525316238403	Clip	stimulus.Clip	APccFaui8xmgaLPZxjAA																			2011 June 25 USCS Round Valley XC Mountain Bike Race	sports1m
+3120.1552446405026	9.966528177261353	Clip	stimulus.Clip	hclIiiBW4rID0gjoYwbv																			14 ª volta ciclistica internacional do grande A B C D 2011 elite	sports1m
+3130.221772483978	9.966527223587036	Clip	stimulus.Clip	ZW5GVcDmKHQQrQdljO9u																			1984 Winter Olympics - Mens Luge 2nd Run - Part 1	sports1m
+3140.288309625778	9.966532230377197	Clip	stimulus.Clip	YWz8BdF7JHpb7SyGU3LO																			run125-lowPolyJungle-1-0	Rendered
+3150.354836515579	9.96652626991272	Clip	stimulus.Clip	otpDc+UZTnv0+G/1LL/A																			lowpolyjungle_129-1-9-70-0_52.87.152.28	Rendered
+3160.421365551147	9.966527223587036	Clip	stimulus.Clip	4ZE6JPeH4hCIesp0aRIB																			kowloon_110-1-8-70-0_54.209.141.225	Rendered
+3170.487897686157	9.96651840209961	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+3180.554420522842	9.966529369354248	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+3190.620940736923	9.966536045074463	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+3200.68747668663	9.966524362564087	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+3210.7540054837796	9.96652340888977	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+3220.8205295125576	9.966533184051514	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+3230.8870595018	9.966525316238403	Clip	stimulus.Clip	okYfMyn8qc2ClgvpS7WG																			2009 Skijoring Event in Whitefish Montana (part 1)	sports1m
+3240.953577570114	9.966524124145508	Clip	stimulus.Clip	NHlF8hOkZ6psFRIVhB6N																			ancienttomb_107-1-4-70-0_54.165.28.255	Rendered
+3251.020111612472	9.96652626991272	Clip	stimulus.Clip	AxNNo310kAl9uUSr+hXS																			medievalsewer_009-1-6-70-0_107.23.36.15	Rendered
+3261.0866365949246	9.966524124145508	Clip	stimulus.Clip	mjtZRmGqaXCHGB59txoI																			Powaqqatsi: Life in Transformation (1988)	Cinematic
+3271.153157524261	9.966520309448242	Clip	stimulus.Clip	W50xYLSTlUixv1tOfuSJ																			2011 Boulder Cup Cyclocross Elite Women	sports1m
+3281.2196825067135	9.966520309448242	Clip	stimulus.Clip	WpAnXD10RC/bdk0t5JIH																			1 of 5 - 2010 ICup 2nd Annual Rock The Canyons XC Mountain Bike Race	sports1m
+3291.286204628143	9.966521263122559	Clip	stimulus.Clip	wu0pUxq7mYUXXdyBm8NY																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+3301.352724603805	9.966523170471191	Clip	stimulus.Clip	PRjeRyVtUh6WNJZ/Uqan																			The Matrix Reloaded (2003)	Cinematic
+3311.419246486816	9.966518640518188	Clip	stimulus.Clip	KXxzcThxp3ohNZ89E8ks																			medievalsewer_097-1-6-70-0_54.173.97.201	Rendered
+3321.4857736150357	9.96651816368103	Clip	stimulus.Clip	KaR18CK6httxo49aR7mE																			run56-medievalSewer-1-0	Rendered
+3331.552289537582	9.966524362564087	Clip	stimulus.Clip	jhzSw4WxGHPLHDnU8Mpt																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+3341.6188145200344	9.966514587402344	Clip	stimulus.Clip	XgCGDpuXzv1Q7ThQxeRD																			medievalsewer_043-1-6-70-0_54.210.37.143	Rendered
+3351.685339502487	9.966509342193604	Clip	stimulus.Clip	KjDfO15MEsKyQ1ecL7gs																			run257-mountainLake-1-0	Rendered
+3361.7518585244748	9.966520309448242	Clip	stimulus.Clip	W72D46ICk0GV1uh0E98o																			The Matrix (1999)	Cinematic
+3371.8183746854397	9.966529130935669	Clip	stimulus.Clip	rKhBb2Q+dILxw3t33TsJ																			The Matrix Revolutions (2003)	Cinematic
+3381.884897522125	9.966514348983765	Clip	stimulus.Clip	YfqXNa8nksH/H4Q7tw5G																			lowpolyjungle_118-1-9-70-0_54.83.154.242	Rendered
+3391.951421550903	9.96651816368103	Clip	stimulus.Clip	OFk94miLCLRW7fhR6BQE																			swamp_075-1-11-70-0_54.165.28.255	Rendered
+3402.0179346124264	9.966523170471191	Clip	stimulus.Clip	VIxFQLvrzWwvLKX9CM5N																			1995 bmx vert bs contest  mat hoffman bike park okc	sports1m
+3412.0844586412045	9.966508150100708	Clip	stimulus.Clip	vqjI614UsTq9Ni+DNK/e																			2011 June 14 Midweek MTB Corner Canyon XC Mountain Bike Race	sports1m
+3422.1509726564022	9.96652603149414	Clip	stimulus.Clip	URfkXukjmICG7Hxi8n4I																			swamp_114-1-11-70-0_107.23.36.15	Rendered
+3432.2174857179257	9.96651840209961	Clip	stimulus.Clip	BAEdd6nCW/m34R9jXko1																			1 of 5 - 2011 True Grit Epic Endurance Mountain Bike Race	sports1m
+3442.284010700378	9.966514348983765	Clip	stimulus.Clip	NjKH7GtvsXoPhax5jg8G																			2011 July 6 Weekly Race Series Sundance XC Mountain Bike Race	sports1m
+3452.3505316297146	9.96651005744934	Clip	stimulus.Clip	ptf4/IxfaZ93xCAA4lvF																			080412 Sonz Adventure Race - Bike 01	sports1m
+3462.417049698028	9.966512203216553	Clip	stimulus.Clip	lv0EwiqVi53OWUDSP4Mv																			lowpolyjungle_132-1-9-70-0_52.87.152.28	Rendered
+3472.4835646669003	9.96651315689087	Clip	stimulus.Clip	Rg+WrrM1VxWeAc4hyJQZ																			run106-medievalSewer-1-0	Rendered
+3482.5500779668423	9.966516017913818	Clip	stimulus.Clip	NeKWHQuwyUsI93t/oe4B																			templeinterior_112-1-2-70-0_54.173.97.201	Rendered
+3492.616600565109	9.966516256332397	Clip	stimulus.Clip	3LCg4TOJPOdfL+xuDG1Y																			swamp_097-1-11-70-0_107.23.36.15	Rendered
+3502.6831164876553	9.966517210006714	Clip	stimulus.Clip	Fn93Fa6I4goD9g9NmlYX																			13 Rottenmanner Tauern-Adventure-Race	sports1m
+3512.749635509643	9.966513395309448	Clip	stimulus.Clip	N1VMm6s8Tl0sQX1EMxnU																			2011 July 23 ICUP Solitude XC Mountain Bike Race	sports1m
+3522.8161378423306	9.966518878936768	Clip	stimulus.Clip	JNiTzTQZMTiSA5tI0vTe																			templeinterior_062-1-2-70-0_54.209.141.225	Rendered
+3532.8826606790158	9.966516017913818	Clip	stimulus.Clip	W5NktZDIs1ayvAvmh63i																			Powaqqatsi: Life in Transformation (1988)	Cinematic
+3542.9491775552365	9.966515302658081	Clip	stimulus.Clip	+183tDR6amwLF5IJXvWR																			Mad Max: Fury Road (2015)	Cinematic
+3553.0156925241085	9.966512203216553	Clip	stimulus.Clip	sJlACCDXUMFtxHaumOaT																			Mad Max: Fury Road (2015)	Cinematic
+3563.082212499771	9.966513395309448	Clip	stimulus.Clip	2SnY8p2+6FhvaXu8JfLV																			Mad Max: Fury Road (2015)	Cinematic
+3573.1487215081784	9.966514348983765	Clip	stimulus.Clip	eewRVFJfAsGV5YrukUjC																			The Matrix Reloaded (2003)	Cinematic
+3583.2152426759335	9.966504096984863	Clip	stimulus.Clip	Fn+6H49ni0ytzy1JGOXn																			The Matrix Revolutions (2003)	Cinematic
+3593.281743816528	9.966521978378296	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+3603.348264507446	9.966513395309448	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+3613.4147825757595	9.96651029586792	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+3623.481298498306	9.96650743484497	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+3633.5478008309933	9.96652102470398	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+3643.614324621353	9.966511249542236	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+3653.6808386365506	14.983105659484863	Monet2	stimulus.Monet2	yv/S61fYnDSQcA9J6Nk8	7.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3668.747276357803	14.983092308044434	Monet2	stimulus.Monet2	EDABAlTaAaJG+SyAec9S	5591.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3683.813711456451	14.983104944229126	Monet2	stimulus.Monet2	H31pkjANK+ZRonzf/R96	2180.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3698.880140356216	14.983104228973389	Monet2	stimulus.Monet2	HM+OgD8yKfeMGSL/gz0Q	6831.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3713.946573309097	9.966519594192505	Clip	stimulus.Clip	zKny17h+B/4JNYhsS/Uq																			mountainlake_091-1-0-70-0_54.162.127.170	Rendered
+3724.013098529968	9.966514348983765	Clip	stimulus.Clip	73Syt2uM7BqGiTuu4OET																			1 of 5 - 2010 ICup 2nd Annual Rock The Canyons XC Mountain Bike Race	sports1m
+3734.079605631027	9.96651816368103	Clip	stimulus.Clip	03VaSGesdkLYhhszYswO																			2011 July 6 Weekly Race Series Sundance XC Mountain Bike Race	sports1m
+3744.1461186925503	9.96651816368103	Clip	stimulus.Clip	byuVCnFhzn3SvzwYVGgj																			mountainlake_118-1-0-70-0_54.173.97.201	Rendered
+3754.212630561981	9.966512203216553	Clip	stimulus.Clip	WhRpSGyF2a+l0+F1TBtd																			lowpolyjungle_059-1-9-70-0_52.87.152.28	Rendered
+3764.2791464845272	9.96650218963623	Clip	stimulus.Clip	YoFtkKkYoLeU9Nfvrj4N																			mountainlake_088-1-0-70-0_54.89.40.102	Rendered
+3774.3456585923764	14.98310399055481	Monet2	stimulus.Monet2	3HzHHDRlI823kBq/ZP5U	7665.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3789.4120913068386	14.983094453811646	Monet2	stimulus.Monet2	5Lkp5QBafztt+LoTx+hY	1408.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3804.4785242597195	14.983099222183228	Monet2	stimulus.Monet2	GHn0W57E+2PS+Qr5yD2r	8.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3819.5449553052517	14.98310399055481	Monet2	stimulus.Monet2	clN4ica4q7huSnWVFTFi	3.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+3834.6113894502255	9.966515064239502	Clip	stimulus.Clip	ubOIjeUGbsNAJqMPIDqU																			mountainlake_066-1-0-70-0_54.205.66.32	Rendered
+3844.677896312866	9.966517210006714	Clip	stimulus.Clip	ihsP/Q14/eSpxdQLR3F4																			Mad Max: Fury Road (2015)	Cinematic
+3854.7610743562313	9.966522216796875	Clip	stimulus.Clip	ClffawlgRfZbgKwX6zRB																			ancienttomb_100-1-4-70-0_54.209.141.225	Rendered
+3864.8109214822384	9.966513395309448	Clip	stimulus.Clip	aedxogPGpb5IiLcjLo8c																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+3874.877439550552	9.966507196426392	Clip	stimulus.Clip	3wXTReOQa7mnr6Oz8aUf																			2012 May 28 ICUP 7th Annual Stan Crane Memorial XC Mountain Bike Race	sports1m
+3884.943938783798	9.966521978378296	Clip	stimulus.Clip	0eP/PPhAGmbJ2peZOa/E																			ancienttomb_105-1-4-70-0_54.89.40.102	Rendered
+3895.0104585210415	9.96651029586792	Clip	stimulus.Clip	NWqTwzuwGakTM37kHKK4																			The Matrix Revolutions (2003)	Cinematic
+3905.0769684831234	9.966511249542236	Clip	stimulus.Clip	ik5DKO+EInbAGwcH0BfB																			2011 June 14 Midweek MTB Corner Canyon XC Mountain Bike Race	sports1m
+3915.1434755841824	9.96651315689087	Clip	stimulus.Clip	dHvGJAD7cN8KboJxFF4/																			2011 June 14 Midweek MTB Corner Canyon XC Mountain Bike Race	sports1m
+3925.2099876920315	9.966501235961914	Clip	stimulus.Clip	zlQ935qW1A8YOiseS7gY																			medievalsewer_132-1-6-70-0_54.210.37.143	Rendered
+3935.2764986077877	9.96650218963623	Clip	stimulus.Clip	XoerXglPXrngFUI5uTG6																			1 of 5 - 2010 ICup 2nd Annual Rock The Canyons XC Mountain Bike Race	sports1m
+3945.3430007020565	9.966512203216553	Clip	stimulus.Clip	EKhyHmLj04EcBoR25T/e																			americandiner_079-1-5-70-0_184.73.123.94	Rendered
+3955.409505895767	14.983099699020386	Trippy	stimulus.Trippy	qMXsO8RMyuvR7cjaSdkJ	9181.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+3970.4759452859494	14.983089208602905	Trippy	stimulus.Trippy	qor69qXRa6l44935Pj7p	6154.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+3985.5423803845974	14.983098983764648	Trippy	stimulus.Trippy	ZJvulWBItHtLlDVkIntm	8.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4000.608797601852	14.983098983764648	Trippy	stimulus.Trippy	U6NqQRL+v/N/9xnLSH2y	10.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4015.675230554733	9.966516971588135	Clip	stimulus.Clip	0y9UrjyiVHEv9ZMTH34C																			mountainlake_013-1-0-70-0_54.210.37.143	Rendered
+4025.7417374173733	9.966516256332397	Clip	stimulus.Clip	0i+7FdWlOsSxVCJcML/p																			run203-darkTemple-1-0	Rendered
+4035.808247379455	9.96651840209961	Clip	stimulus.Clip	FV6nvhLEjBlgopI35UeO																			swamp_104-1-11-70-0_54.196.24.32	Rendered
+4045.874762586746	9.966505289077759	Clip	stimulus.Clip	kYwvNIx5tngTmll3K5rX																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+4055.9412715951535	9.966511249542236	Clip	stimulus.Clip	bhruKqug3BySd8r50MTG																			mountainlake_031-1-0-70-0_184.73.123.94	Rendered
+4066.007781795654	9.96651291847229	Clip	stimulus.Clip	Nbtef1dcQVi+XfcmjTlZ																			2012 USCS Lambert Park XC Mountain Bike Race (Stabilized)	sports1m
+4076.0742936650845	9.966503143310547	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+4086.1407967130276	9.96651411056473	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+4096.207305483016	9.966505527496338	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+4106.273819498214	9.966504335403442	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+4116.340324691924	9.966512203216553	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+4126.406829647216	9.966512203216553	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+4136.49000459114	14.983097791671753	Trippy	stimulus.Trippy	nGvPkYTkoR2LVULUXJzf	5904.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4151.556423477325	14.98310923576355	Trippy	stimulus.Trippy	7OOFD+pywgnU8G/QQ7O8	9084.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4166.622864298019	14.983092308044434	Trippy	stimulus.Trippy	hhWRsNy4ljt4M1PtvZ3u	6.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4181.689291290435	14.983095169067383	Trippy	stimulus.Trippy	zcz9H/fzww6BdAJTTzoe	7.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4196.755708269271	9.966522216796875	Clip	stimulus.Clip	5LqLfm1Q3VjwaLrlYnex																			Mad Max: Fury Road (2015)	Cinematic
+4206.822217277679	9.966514587402344	Clip	stimulus.Clip	Mo3f7yqAxk7uUaYOA5Ns																			2009 Skijoring Event in Whitefish Montana (part 8)	sports1m
+4216.888732484969	9.966512441635132	Clip	stimulus.Clip	nZH9b2RVbShZ075JSG7x																			americandiner_071-1-5-70-0_54.196.24.32	Rendered
+4226.95524268547	9.96650505065918	Clip	stimulus.Clip	bLYZ7NGI1px0XNE5ytu8																			Naqoyqatsi: Life as War (2002)	Cinematic
+4237.02174954811	9.966501235961914	Clip	stimulus.Clip	glVMJy6U8cj6TWHYe0i8																			2012 July 17 Midweek MTB Deer Valley Silver Lake Lodge XC Race (Stabilized)	sports1m
+4247.088246874007	9.966516971588135	Clip	stimulus.Clip	Yzip61RHcH2j4uyBgbkp																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+4257.154760650787	9.966507196426392	Clip	stimulus.Clip	MaN8zZQItdhsFNBq5/yl																			run213-darkTemple-1-0	Rendered
+4267.221271566543	9.966509342193604	Clip	stimulus.Clip	18PTv0aCUhaUeL2r9kDd																			2012 July 10 Midweek MTB Corner Canyon XC Mountain Bike Race (Stabilized)	sports1m
+4277.287773660812	9.966509103775024	Clip	stimulus.Clip	cK20wOm48y1gpxBcZuzN																			The Matrix Reloaded (2003)	Cinematic
+4287.354281477126	9.966504335403442	Clip	stimulus.Clip	s8DvZS/fghphUcTsLOzM																			The Matrix (1999)	Cinematic
+4297.420791677627	9.966504096984863	Clip	stimulus.Clip	8IyLxfa6UikBgn/lOdpD																			2012 January 28 Frozen Hog Snow Mountain Bike Race	sports1m
+4307.4872966329185	9.966503143310547	Clip	stimulus.Clip	AXD+rrWG8VbV+xLvzwfb																			2012 May 28 ICUP 7th Annual Stan Crane Memorial XC Mountain Bike Race	sports1m
+4317.55380158821	14.98309588432312	Monet2	stimulus.Monet2	SzeVJsDzE+Ceeb3XK4TT	5.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4332.6202207128135	14.983093738555908	Monet2	stimulus.Monet2	IzAFbAJjVsCRqbqe9Kz1	6404.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4347.669980339202	14.983102083206177	Monet2	stimulus.Monet2	kEq0YeYOSSBtM1ZkWA1a	4.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4362.736406377944	14.983099937438965	Monet2	stimulus.Monet2	3UgOrQjahOT3GzL/LWDH	8155.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4377.802839330825	14.983093976974487	Monet2	stimulus.Monet2	WD0uyxvusJmVxfeKu9mZ	1.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4392.869262270126	14.983097314834595	Monet2	stimulus.Monet2	YLuStB2eXkgOS+Cescsy	9.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4407.935689262542	14.983105421066284	Monet2	stimulus.Monet2	Sqv4lziRTQgtkUPYRRiM	10.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4423.0021303216545	14.983095169067383	Monet2	stimulus.Monet2	+rgSVBVRE8Ij1WNhq8ZW	2.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4438.0685563603965	9.966503381729126	Clip	stimulus.Clip	eR3AdOTTPE0W4smb1cdw																			2011 July 20 Weekly Race Series Sundance XC Mountain Bike Race	sports1m
+4448.135062269363	9.966505289077759	Clip	stimulus.Clip	KjNRXaDKeku2VguLfGQp																			Powaqqatsi: Life in Transformation (1988)	Cinematic
+4458.201560548934	9.966509342193604	Clip	stimulus.Clip	RTAQWe/Fj3deVSQmTweJ																			2009 Skijoring Event in Whitefish Montana (part 5)	sports1m
+4468.268075517806	9.966511249542236	Clip	stimulus.Clip	LrXLEyfNNF8qUP6JhYBn																			Mad Max: Fury Road (2015)	Cinematic
+4478.334586671981	9.966501235961914	Clip	stimulus.Clip	lWBitQEtT8h6Y0crAg5o																			2009FIS WORLD CHAMPIONSHIP DUALMOGULS CEREMONY	sports1m
+4488.401090673598	9.966512203216553	Clip	stimulus.Clip	qL4arwgjGcTtg1XzZxlk																			Mad Max: Fury Road (2015)	Cinematic
+4498.4675965825645	9.966501235961914	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+4508.534097723159	9.966504096984863	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+4518.600606493148	9.966514348983765	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+4528.667118600997	9.966496229171753	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+4538.733618549499	9.966505289077759	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+4548.800125650558	9.966498374938965	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+4558.866628698501	9.96651005744934	Clip	stimulus.Clip	YWGU9pCJb1jD1EEZ20tf																			The Matrix Reloaded (2003)	Cinematic
+4568.933141521606	9.966500282287598	Clip	stimulus.Clip	FQR1XltfRJLPikdVpYNn																			mountainlake_008-1-0-70-0_54.205.66.32	Rendered
+4578.9996426622	9.966503143310547	Clip	stimulus.Clip	O/TPbFEXzCLov05/KwS+																			2011 June 15 Weekly Race Series Soldier Hollow XC Mountain Bike Race	sports1m
+4589.066147617492	9.966508150100708	Clip	stimulus.Clip	GLb98O6GN6r7256/fA8Y																			The Matrix (1999)	Cinematic
+4599.132654480132	9.966504335403442	Clip	stimulus.Clip	SuNRz+E/BsGGxVlNWLt9																			shintoday_036-1-12-70-0_184.73.123.94	Rendered
+4609.199148468169	9.96651029586792	Clip	stimulus.Clip	mbeT2YEuzrol94GMBsSP																			lowpolyjungle_113-1-9-70-0_54.159.174.165	Rendered
+4619.265662483367	14.98308801651001	Trippy	stimulus.Trippy	G31GO27H08kFIOZVQvAv	1459.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4634.332080892715	14.983102798461914	Trippy	stimulus.Trippy	fLN9OsqB4urU1raVqqg8	4356.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4649.398512415084	14.983097076416016	Trippy	stimulus.Trippy	Vdi70xOyBQEeDGhPVulx	3.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4664.464935354385	14.983088254928589	Trippy	stimulus.Trippy	EhwIk1vM51LHZPE6xFZX	5.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4679.531368307265	14.983082294464111	Trippy	stimulus.Trippy	J16ZOJeYRqKSmIu4kmsd	7795.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4694.597782663497	14.983093738555908	Trippy	stimulus.Trippy	FwG4V5nAZdXPlcAEu/X9	9.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4709.664206318053	14.983108282089233	Trippy	stimulus.Trippy	c6il6/HFHBatfpiQJdgg	1.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4724.730646423492	14.983094215393066	Trippy	stimulus.Trippy	qkOGGOuZpenUfVPsg7pC	2077.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+4739.7970703164665	14.983094215393066	Monet2	stimulus.Monet2	uAJLAga+RNkfyuch9BRR	5557.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4754.863486341628	14.983106136322021	Monet2	stimulus.Monet2	AZvr1UF39ygFqNxKr/8K	6.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4769.929927400741	14.983089923858643	Monet2	stimulus.Monet2	CXeJy3AM7JenjugXMtRu	3291.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4784.996340326461	14.98309326171875	Monet2	stimulus.Monet2	gY9PCk17b2uInKttNA0i	1204.0									0.0	72.0	1.7	hamming	4.0	2.5	1.0	1.0	16.0		
+4800.062766365203	9.966512441635132	Clip	stimulus.Clip	YFPXGve03wCv91rZEc6i																			The Matrix Revolutions (2003)	Cinematic
+4810.129283479842	9.966499328613281	Clip	stimulus.Clip	iyt3KZKeC4voiTHEy/J1																			2012 UCI Road World Cycling Championships - Mens road race (final km) HD	sports1m
+4820.195788673553	9.966506242752075	Clip	stimulus.Clip	YpqZOyUgCVicSQDhh8ux																			2011 July 2 ICUP Dutch Hollow XC Mountain Bike Race	sports1m
+4830.262283853683	9.966511964797974	Clip	stimulus.Clip	zV6e3JXcu9GsWgneTCyY																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+4840.328801683578	9.966508150100708	Clip	stimulus.Clip	AXt1q0YqBPFm0FjORvZ2																			2012 July 17 Midweek MTB Deer Valley Silver Lake Lodge XC Race (Stabilized)	sports1m
+4850.395309499892	9.966504335403442	Clip	stimulus.Clip	ld1NpaMz/z7Ir1wO3i44																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+4860.461802772674	9.966516017913818	Clip	stimulus.Clip	4tIOoaR5VNXdEFB3JLsd																			Naqoyqatsi: Life as War (2002)	Cinematic
+4870.528315595779	9.966512203216553	Clip	stimulus.Clip	wrhbg7/9C5fsnGqt95w/																			2012 UNIV WORLDS Erickson (USA) dec Allikma (EST) 120 kg Greco repechage	sports1m
+4880.594822696838	9.96651005744934	Clip	stimulus.Clip	gnKtNfR9QYEW0PRkfRU4																			The Matrix Reloaded (2003)	Cinematic
+4890.661330513152	9.966504096984863	Clip	stimulus.Clip	LfckM0X1gCCgUlsmXIea																			The Matrix Revolutions (2003)	Cinematic
+4900.711163572463	9.96650218963623	Clip	stimulus.Clip	Ta17hPcaONVDy5sPjE9z																			The Matrix Reloaded (2003)	Cinematic
+4910.777672580871	9.966500282287598	Clip	stimulus.Clip	mpoHL5UE5tDtz7b51b3H																			americandiner_042-1-5-70-0_54.173.97.201	Rendered
+4920.860844663772	9.966506242752075	Clip	stimulus.Clip	GjCMo2GkJp6y5vricadg																			americandiner_005-1-5-70-0_54.165.28.255	Rendered
+4930.927346519622	9.966499328613281	Clip	stimulus.Clip	ecUQJtcERZJGdqza1k7h																			2009 Krugers Cross Singlespeed Cyclocross Race - Helmet Cam	sports1m
+4940.9938476602165	9.966504096984863	Clip	stimulus.Clip	7UETOWO5Z8aWuHDBJ2GG																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+4951.077021650466	9.96650505065918	Clip	stimulus.Clip	Oup5uAZxF2G7zEJkT+ui																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+4961.143515876922	9.966511011123657	Clip	stimulus.Clip	5zQTb77qI+ig8rigx1XU																			Mad Max: Fury Road (2015)	Cinematic
+4971.21003156105	9.96649432182312	Clip	stimulus.Clip	KXdTNAGMo1gCWz2Ge8zr																			run82-ancientTomb-1-0	Rendered
+4981.276535562667	9.966504335403442	Clip	stimulus.Clip	JNYUnhFvI0mZbwN58E20																			swamp_124-1-11-70-0_34.239.124.192	Rendered
+4991.3430395642845	9.966501474380493	Clip	stimulus.Clip	7keiPs7vk9CHNrtDuOxL																			2012 July 17 Midweek MTB Deer Valley Silver Lake Lodge XC Race (Stabilized)	sports1m
+5001.409545711669	9.966500043869019	Clip	stimulus.Clip	t24nBc6mpih4DR5C/qVP																			subway_016-1-3-70-0_52.205.253.179	Rendered
+5011.476048521194	9.966507196426392	Clip	stimulus.Clip	JzIVwvytTHCEhcYc0EkS																			2012 UNIV WORLDS Stenberg (USA) dec Sasunouski (BLR) 84 kg Greco bout	sports1m
+5021.542551569137	9.966495513916016	Clip	stimulus.Clip	shDuGRZylVmZLCBFIVeP																			2011 July 23 ICUP Solitude XC Mountain Bike Race	sports1m
+5031.60905962387	9.96650218963623	Clip	stimulus.Clip	ysjy6YgGXX5+mcx52KSM																			The Matrix Reloaded (2003)	Cinematic
+5041.6755636254875	9.966451406478882	Clip	stimulus.Clip	QmynNYnz4Q0hMBpTZ/xv																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+5051.742008737716	9.966474056243896	Clip	stimulus.Clip	gpu0WyfdPMgXV/xhy6ZP																			2012 USA Basketball vs The Dream Team 1992 USA Basketball - NBA 2K13	sports1m
+5061.808470539245	9.966466188430786	Clip	stimulus.Clip	0ir9/br3yxbe2BBf65zF																			The Matrix Reloaded (2003)	Cinematic
+5071.858273557815	9.966456174850464	Clip	stimulus.Clip	NM2SnnQwIoj8iKOMP6xA																			Naqoyqatsi: Life as War (2002)	Cinematic
+5081.924724868926	9.966464042663574	Clip	stimulus.Clip	F5KOXJGuqZljKK9USGu/																			2010 WORLDS Jake Clark (USA) dec T Tounousidis (GRE) 84 kg GR	sports1m
+5091.991194538268	9.96646523475647	Clip	stimulus.Clip	uWDM4AAJ+PIdXzpPxOha																			Mad Max: Fury Road (2015)	Cinematic
+5102.057661585006	14.983030080795288	Trippy	stimulus.Trippy	Q4/THKpXp4wtLGelC8Na	6820.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+5117.12402348915	14.98303508758545	Trippy	stimulus.Trippy	+4gByvU9LfvSD0JHP6Ae	4.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+5132.19038944641	14.983026266098022	Trippy	stimulus.Trippy	tRgm529SPpQspr220FRm	2.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+5147.273414663467	14.98304271697998	Trippy	stimulus.Trippy	MEXB7d7kfKPJ59YthHun	4267.0	90.0	160.0	12.0	6.0	24.0	4.0	61.0	0.08											
+5162.339782528075	9.966480016708374	Clip	stimulus.Clip	Mg5bLgoNvze3EPLB9rbZ																			2011 KIA X-GAME Aggressive Inline VERT Final	sports1m
+5172.406248621139	9.966484069824219	Clip	stimulus.Clip	yfFAPn1QpVQmEC2iXg07																			swamp_103-1-11-70-0_54.162.127.170	Rendered
+5182.47272854248	9.966468334197998	Clip	stimulus.Clip	fSfoxctVyPEoVzFOpsAw																			ancienttomb_068-1-4-70-0_34.239.124.192	Rendered
+5192.539197496566	9.966468334197998	Clip	stimulus.Clip	5Q4+LRPdnmpiazfLNOdJ																			mountainlake_006-1-0-70-0_184.73.123.94	Rendered
+5202.605663589629	9.966478109359741	Clip	stimulus.Clip	EyGfkWSsxEsE8f3GX5Ox																			lowpolyjungle_079-1-9-70-0_52.87.152.28	Rendered
+5212.672135643157	9.966472148895264	Clip	stimulus.Clip	Lp/pttdcIH1AZsCOGZuG																			Naqoyqatsi: Life as War (2002)	Cinematic
+5222.738605550918	9.966476202011108	Clip	stimulus.Clip	RL8zpBtdUqrcItpujIVj																			Powaqqatsi: Life in Transformation (1988)	Cinematic
+5232.805072597655	9.96648120880127	Clip	stimulus.Clip	L313XjQzD6eqzIitZmbl																			subway_129-1-3-70-0_54.159.174.165	Rendered
+5242.871544651183	9.966472148895264	Clip	stimulus.Clip	G8GCQlSYxw5oG/LVKDs2																			americandiner_099-1-5-70-0_184.73.123.94	Rendered
+5252.954690508041	9.966472387313843	Clip	stimulus.Clip	YxZMp94AewnnwYmjI/0v																			Koyaanisqatsi: Life Out of Balance (1982)	Cinematic
+5263.021163515243	9.966476202011108	Clip	stimulus.Clip	wE8wskQ2OpXgYdnpm+o0																			13 Rottenmanner Tauern-Adventure-Race	sports1m
+5273.087634615096	9.966471195220947	Clip	stimulus.Clip	Hx7nWm9l4FGDuTlUO/17																			The Matrix Reloaded (2003)	Cinematic
+5283.154110483321	9.966466426849365	Clip	stimulus.Clip	J4PH3ez0PBmcINVwekyF																			2011 KIA X-GAME Aggressive Inline VERT Final	sports1m
+5293.220578483733	9.966471195220947	Clip	stimulus.Clip	n2kq4Nv6UNm4wJbdtuHM																			2010 WORLDS Justin Ruiz (USA) dec Richard Karelson (EST) 96 kg GR	sports1m
+5303.287046722564	9.966477394104004	Clip	stimulus.Clip	iYxs1vPwdSenUzRva/I3																			Mad Max: Fury Road (2015)	Cinematic
+5313.353535703811	9.966471195220947	Clip	stimulus.Clip	N1Sn679rCW0XsG5S7c/C																			Star Wars: Episode VII - The Force Awakens (2015)	Cinematic
+5323.420009664687	9.96647310256958	Clip	stimulus.Clip	jlM0Ornu8Dw2nAXCwego																			mountainlake_047-1-0-70-0_54.89.40.102	Rendered
+5333.4864826718895	9.966482877731323	Clip	stimulus.Clip	iXM+aZY10zP+t3wPmZOW																			The Matrix Reloaded (2003)	Cinematic
